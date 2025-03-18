@@ -39,4 +39,4 @@ Android: Kotlin, Jetpack libraries
 🤝 Contributors
 💡 Aditya Soni & Yashvardhan Kapil (under the supervision & guidance of[Dr.Ekta Gandotra])
 
-The Android app is under development phase right now but most of the major work is done. 🚀 We will updating this on every week so stay in touch.
+The Android app is under development phase right now but most of the major work is done. 🚀 We will updating this on every week so stay in touch.[18/03/2025].
