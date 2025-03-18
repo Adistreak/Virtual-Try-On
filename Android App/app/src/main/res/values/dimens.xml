@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="thickness_divider">1dp</dimen>
+    <dimen name="spacer_medium">16dp</dimen>
+    <dimen name="spacer_large">32dp</dimen>
+    <dimen name="button_large">64dp</dimen>
+
+</resources>

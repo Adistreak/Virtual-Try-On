@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cart It</string>
+
+    <string name="home">CartIT</string>
+    <string name="user">User Info</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="productinfo">Product Info</string>
+    <string name="cart">Cart</string>
+    <string name="camera">Virtual Try On</string>
+</resources>
